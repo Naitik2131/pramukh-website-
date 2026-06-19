@@ -1,0 +1,6 @@
+node_modules/
+tests/
+playwright-report/
+test-results/
+.git/
+video-new.mp4
